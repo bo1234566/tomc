@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2689bd9a-2404-4a24-8bba-e88c40e076b0" name="Default" comment="第十课">
+    <list default="true" id="2689bd9a-2404-4a24-8bba-e88c40e076b0" name="Default" comment="第十1课">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -61,7 +66,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -411,7 +416,7 @@
       <workItem from="1602156405760" duration="4000" />
       <workItem from="1602156463388" duration="299000" />
       <workItem from="1602156804916" duration="490000" />
-      <workItem from="1602157927090" duration="304000" />
+      <workItem from="1602157927090" duration="868000" />
     </task>
     <task id="LOCAL-00001" summary="第四次课参考代码。">
       <created>1467538081171</created>
@@ -462,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602158023787</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第十1课">
+      <created>1602158269423</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602158269423</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -486,29 +498,33 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="第四次课参考代码。" />
     <MESSAGE value="第十课" />
-    <option name="LAST_COMMIT_MESSAGE" value="第十课" />
+    <MESSAGE value="第十1课" />
+    <option name="LAST_COMMIT_MESSAGE" value="第十1课" />
   </component>
   <component name="WindowStateProjectService">
     <state x="556" y="204" key="#Notifications" timestamp="1602130834879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="556" y="204" key="#Notifications/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130834879" />
-    <state x="2126" y="213" key="CommitChangelistDialog2" timestamp="1602158021209">
+    <state x="2126" y="213" key="CommitChangelistDialog2" timestamp="1602158266716">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="275" y="142" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130671624" />
-    <state x="2126" y="213" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158021209" />
+    <state x="2126" y="213" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158266716" />
     <state x="1920" y="129" key="DiffContextDialog" timestamp="1602158174042">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="1920" y="129" key="DiffContextDialog/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158174042" />
-    <state x="2478" y="363" key="FileChooserDialogImpl" timestamp="1602157937073">
+    <state x="2478" y="363" key="FileChooserDialogImpl" timestamp="1602158818949">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="744" y="300" key="FileChooserDialogImpl/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130535860" />
-    <state x="2478" y="363" key="FileChooserDialogImpl/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602157937073" />
+    <state x="2478" y="363" key="FileChooserDialogImpl/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158818949" />
     <state x="744" y="300" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597030458642" />
     <state width="499" height="951" key="GridCell.Tab.0.bottom" timestamp="1599647495414">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -530,16 +546,16 @@
     </state>
     <state width="443" height="387" key="GridCell.Tab.0.right/0.0.1255.1080@0.0.1255.1080" timestamp="1594281971114" />
     <state width="499" height="951" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599647495414" />
-    <state x="2270" y="269" key="SettingsEditor" timestamp="1602157222793">
+    <state x="2270" y="269" key="SettingsEditor" timestamp="1602158799150">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="467" y="187" key="SettingsEditor/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130978695" />
-    <state x="2270" y="269" key="SettingsEditor/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602157222793" />
-    <state x="2337" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602158205507">
+    <state x="2270" y="269" key="SettingsEditor/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158799150" />
+    <state x="2337" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602158338103">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="556" y="278" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130985506" />
-    <state x="2337" y="345" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158205507" />
+    <state x="2337" y="345" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158338103" />
     <state x="2413" y="422" key="com.intellij.ide.util.TipDialog" timestamp="1602156816860">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
