@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2689bd9a-2404-4a24-8bba-e88c40e076b0" name="Default" comment="第四次课参考代码。">
+    <list default="true" id="2689bd9a-2404-4a24-8bba-e88c40e076b0" name="Default" comment="第十课">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -411,6 +411,7 @@
       <workItem from="1602156405760" duration="4000" />
       <workItem from="1602156463388" duration="299000" />
       <workItem from="1602156804916" duration="490000" />
+      <workItem from="1602157927090" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="第四次课参考代码。">
       <created>1467538081171</created>
@@ -447,7 +448,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602150722117</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第四次课参考代码。">
+      <created>1602157961888</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602157961888</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第十课">
+      <created>1602158023787</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602158023787</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -472,18 +487,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第四次课参考代码。" />
-    <option name="LAST_COMMIT_MESSAGE" value="第四次课参考代码。" />
+    <MESSAGE value="第十课" />
+    <option name="LAST_COMMIT_MESSAGE" value="第十课" />
   </component>
   <component name="WindowStateProjectService">
     <state x="556" y="204" key="#Notifications" timestamp="1602130834879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="556" y="204" key="#Notifications/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130834879" />
-    <state x="2126" y="213" key="CommitChangelistDialog2" timestamp="1602157975308">
+    <state x="2126" y="213" key="CommitChangelistDialog2" timestamp="1602158021209">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="275" y="142" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130671624" />
-    <state x="2126" y="213" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602157975308" />
+    <state x="2126" y="213" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158021209" />
+    <state x="1920" y="129" key="DiffContextDialog" timestamp="1602158174042">
+      <screen x="1920" y="113" width="1440" height="900" />
+    </state>
+    <state x="1920" y="129" key="DiffContextDialog/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158174042" />
     <state x="2478" y="363" key="FileChooserDialogImpl" timestamp="1602157937073">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
@@ -515,11 +535,11 @@
     </state>
     <state x="467" y="187" key="SettingsEditor/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130978695" />
     <state x="2270" y="269" key="SettingsEditor/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602157222793" />
-    <state x="2337" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602150766607">
+    <state x="2337" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602158205507">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="556" y="278" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130985506" />
-    <state x="2337" y="345" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602150766607" />
+    <state x="2337" y="345" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602158205507" />
     <state x="2413" y="422" key="com.intellij.ide.util.TipDialog" timestamp="1602156816860">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
