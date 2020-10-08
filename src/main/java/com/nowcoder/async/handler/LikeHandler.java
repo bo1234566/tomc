@@ -31,7 +31,7 @@ public class LikeHandler implements EventHandler {
         message.setFromId(3);
         //message.setToId(model.getEntityOwnerId());
         message.setToId(model.getActorId());
-        //zuixinban
+        //zuixinbansdf
 //        message.setToId(model.getEntityOwnerId());
         User user = userService.getUser(model.getActorId());
         message.setContent("用户" + user.getName()
