@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2689bd9a-2404-4a24-8bba-e88c40e076b0" name="Default" comment="第四次课参考代码。" />
+    <list default="true" id="2689bd9a-2404-4a24-8bba-e88c40e076b0" name="Default" comment="第四次课参考代码。">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +61,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -405,6 +407,10 @@
       <workItem from="1602129550106" duration="1473000" />
       <workItem from="1602149020116" duration="120000" />
       <workItem from="1602149381106" duration="112000" />
+      <workItem from="1602150667083" duration="111000" />
+      <workItem from="1602156405760" duration="4000" />
+      <workItem from="1602156463388" duration="299000" />
+      <workItem from="1602156804916" duration="490000" />
     </task>
     <task id="LOCAL-00001" summary="第四次课参考代码。">
       <created>1467538081171</created>
@@ -434,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602149458760</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第四次课参考代码。">
+      <created>1602150722117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602150722117</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -466,16 +479,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="556" y="204" key="#Notifications/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130834879" />
-    <state x="2126" y="213" key="CommitChangelistDialog2" timestamp="1602149453817">
+    <state x="2126" y="213" key="CommitChangelistDialog2" timestamp="1602150718118">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="275" y="142" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130671624" />
-    <state x="2126" y="213" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602149453817" />
-    <state x="2478" y="363" key="FileChooserDialogImpl" timestamp="1602149392431">
+    <state x="2126" y="213" key="CommitChangelistDialog2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602150718118" />
+    <state x="2478" y="363" key="FileChooserDialogImpl" timestamp="1602157937073">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="744" y="300" key="FileChooserDialogImpl/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130535860" />
-    <state x="2478" y="363" key="FileChooserDialogImpl/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602149392431" />
+    <state x="2478" y="363" key="FileChooserDialogImpl/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602157937073" />
     <state x="744" y="300" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597030458642" />
     <state width="499" height="951" key="GridCell.Tab.0.bottom" timestamp="1599647495414">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -497,22 +510,23 @@
     </state>
     <state width="443" height="387" key="GridCell.Tab.0.right/0.0.1255.1080@0.0.1255.1080" timestamp="1594281971114" />
     <state width="499" height="951" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599647495414" />
-    <state x="2270" y="269" key="SettingsEditor" timestamp="1602149139497">
+    <state x="2270" y="269" key="SettingsEditor" timestamp="1602157222793">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="467" y="187" key="SettingsEditor/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130978695" />
-    <state x="2270" y="269" key="SettingsEditor/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602149139497" />
-    <state x="2337" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602149479347">
+    <state x="2270" y="269" key="SettingsEditor/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602157222793" />
+    <state x="2337" y="345" key="Vcs.Push.Dialog.v2" timestamp="1602150766607">
       <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="556" y="278" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602130985506" />
-    <state x="2337" y="345" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602149479347" />
-    <state x="657" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1600596071883">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="2337" y="345" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602150766607" />
+    <state x="2413" y="422" key="com.intellij.ide.util.TipDialog" timestamp="1602156816860">
+      <screen x="1920" y="113" width="1440" height="900" />
     </state>
     <state x="429" y="371" key="com.intellij.ide.util.TipDialog/0.0.1255.1080@0.0.1255.1080" timestamp="1594200304454" />
     <state x="437" y="371" key="com.intellij.ide.util.TipDialog/0.0.1278.1080@0.0.1278.1080" timestamp="1596507252531" />
     <state x="657" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1600596071883" />
+    <state x="2413" y="422" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602156816860" />
     <state x="657" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600412589012" />
     <state x="338" y="158" key="new project wizard" timestamp="1600412599665">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -524,6 +538,10 @@
     <state x="795" y="401" width="896" height="814" key="search.everywhere.popup/0.0.1920.1080/1920.113.1440.900@0.0.1920.1080" timestamp="1602129613163" />
     <state x="2516" y="447" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602081495118" />
     <state x="794" y="401" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594264322386" />
+    <state x="2502" y="416" key="svn.repositoryBrowser" timestamp="1602157931250">
+      <screen x="1920" y="113" width="1440" height="900" />
+    </state>
+    <state x="2502" y="416" key="svn.repositoryBrowser/0.0.1920.1080/1920.113.1440.900@1920.113.1440.900" timestamp="1602157931250" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -547,6 +565,14 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/nowcoder/controller/LoginController.java</url>
           <line>37</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.6.RELEASE/spring-context-4.2.6.RELEASE.jar!/org/springframework/ui/Model.class</url>
+          <line>13</line>
+          <properties class="org.springframework.ui.Model" method="addAttribute">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
